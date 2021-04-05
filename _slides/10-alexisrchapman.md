@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Welcome, from a cat in a Kimono!
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
