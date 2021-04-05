@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Helping us wrestle with issues in Git!
+Slammin!
 
 ![luchadortocat](https://octodex.github.com/images/luchadortocat.png)
 {: .center}
